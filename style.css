@@ -71,3 +71,9 @@ h3 {
 iframe {
     margin: 30px;
 }
+
+@media (min-width: 600px) {
+    body {
+        margin: 30px;
+    }
+}
